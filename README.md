@@ -51,12 +51,3 @@ Define clear use cases and validation criteria
 
 Document flows for long-term maintainability
 
-If you want, I can:
-
-✨ Make this shorter (README TL;DR version)
-
-✨ Add a simple ASCII or Mermaid mind map
-
-✨ Rewrite it for GitHub profile README or portfolio
-
-Just tell me 👍
